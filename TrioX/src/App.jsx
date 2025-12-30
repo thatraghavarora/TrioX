@@ -43,7 +43,7 @@ function App() {
         </div>
         <div className="header-cluster">
           <div className="logo-pill" aria-hidden="true" />
-          <img src="../public/image.png" alt="" />
+          <img src="https://bprd.cdtijaipur.in/wp-content/uploads/2024/01/Group-202.png" alt="" />
         </div>
       </header>
 
