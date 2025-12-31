@@ -1,4 +1,4 @@
-<img width="1920" height="897" alt="image" src="https://github.com/user-attachments/assets/15d02f88-82ac-409d-8519-1a5215f2536b" />
+
 # 🛡️ TrioX 
 
 ### Unified Open-Source Intelligence Monitoring Platform
