@@ -1,4 +1,4 @@
-
+<img width="1920" height="897" alt="image" src="https://github.com/user-attachments/assets/15d02f88-82ac-409d-8519-1a5215f2536b" />
 # 🛡️ TrioX 
 
 ### Unified Open-Source Intelligence Monitoring Platform
@@ -26,6 +26,17 @@ As a result, investigative and compliance teams face:
 * Weak evidence continuity
 
 ---
+
+## UI 
+
+<img width="1920" height="897" alt="image" src="https://github.com/user-attachments/assets/7867a5fd-ccd6-477d-bf4b-d4efa86eeb6e" />
+<img width="1920" height="897" alt="image" src="https://github.com/user-attachments/assets/daf336ef-94a4-403f-8035-0078b1d2bd69" />
+<img width="1920" height="897" alt="image" src="https://github.com/user-attachments/assets/c32456a9-c39d-41ae-a571-1bba64537a5b" />
+<img width="1920" height="897" alt="image" src="https://github.com/user-attachments/assets/89a5bff1-7df2-402c-9873-fd1212308962" />
+<img width="1920" height="897" alt="image" src="https://github.com/user-attachments/assets/9eec4c65-277a-4204-8ea5-6d8e56791f64" />
+<img width="1920" height="897" alt="image" src="https://github.com/user-attachments/assets/07e4fd18-78ca-4475-9ef1-92a362f9afbb" />
+
+
 
 ## 💡 Our Solution – TrioX Shield
 
